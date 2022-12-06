@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_bebidas.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_categorias.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_comidas.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_dulce.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_editar_producto.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_nuevo_producto.xml" value="0.2" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_otros.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_producto_cliente.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_producto_vendedor.xml" value="0.3155194527575887" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_productos.xml" value="0.264" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_register.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_salado.xml" value="0.3155194527575887" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_usuario.xml" value="0.3274903805044891" />
+        <entry key="..\:/Users/pc/Desktop/FACTU_Buena/app/src/main/res/layout/activity_usuario_editar.xml" value="0.3274903805044891" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
